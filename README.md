@@ -10,33 +10,21 @@ Refer to the following guides for an in-depth walk through on how to use the com
 
 
 /top-holders
-
 /twitter_reuse
-
 /site_check
-
 /fresh (NEW!)
-
 /funded (NEW!)
-
 /floor (NEW!)
-
 /early-pf-wallets (NEW!)
-
 /common_top_traders
-
 /check_dex
-
 /wallet_analyzer
-
 /bundle_check
-
 /holder_scan
-
 /reverse_image_search
-
 /hmap
-
 /graduated_stats
+
+![image](https://github.com/user-attachments/assets/0d5652c5-93cb-408f-b170-da01004b028b)
 
 If you have any questions you can contact me on Telegram, Twitter, or Discord: @lunarfang_416 or @yumecode
